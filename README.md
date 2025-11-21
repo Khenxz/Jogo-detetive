@@ -1,12 +1,3 @@
----
-
-# ✅ **README.md – Mistério da Mansão em São José dos Pinhais**
-
-```markdown
-# 🕵️‍♂️ Mistério da Mansão em São José dos Pinhais
-Projeto acadêmico — Jogo de Detetive com Lógica Proposicional  
-Curso: Ciência da Computação – 1º Período  
-Disciplina: Lógica  
 
 
 ---
